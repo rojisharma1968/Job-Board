@@ -253,7 +253,7 @@ const Home = () => {
               </Button>
             </Link>
             <Link to="/post-job">
-              <Button variant="outline" className="border-white hover:bg-white/10 min-w-[150px]">
+              <Button variant="outline" className="border-white text-job-primary hover:text-white hover:bg-white/10 min-w-[150px]">
                 Post a Job
               </Button>
             </Link>
