@@ -1,0 +1,206 @@
+
+[
+  {
+    "id": "company-1",
+    "name": "TechCorp",
+    "logo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=200&h=200&fit=crop&auto=format",
+    "cover_image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=1200&h=400&fit=crop&auto=format",
+    "location": "San Francisco, CA",
+    "website": "https://techcorp.example.com",
+    "industry": "Technology",
+    "founded": "2010",
+    "size": "201-500 employees",
+    "description": "TechCorp is a leading technology company specializing in innovative software solutions for businesses. We create cutting-edge products that help our clients streamline their operations and achieve their goals.",
+    "mission": "To transform businesses through technology and innovation.",
+    "values": [
+      "Innovation at our core",
+      "Customer success first",
+      "Collaboration and teamwork",
+      "Continuous learning",
+      "Work-life balance"
+    ],
+    "benefits": [
+      "Competitive salary",
+      "Comprehensive health insurance",
+      "Flexible work arrangements",
+      "Professional development budget",
+      "Stock options",
+      "401(k) matching"
+    ],
+    "jobs_count": 2
+  },
+  {
+    "id": "company-2",
+    "name": "DesignMasters",
+    "logo": "https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?w=200&h=200&fit=crop&auto=format",
+    "cover_image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=1200&h=400&fit=crop&auto=format",
+    "location": "New York, NY",
+    "website": "https://designmasters.example.com",
+    "industry": "Design",
+    "founded": "2015",
+    "size": "51-200 employees",
+    "description": "DesignMasters is a creative agency specializing in user experience and interface design. We help brands create memorable digital experiences that connect with their audiences and drive business results.",
+    "mission": "To create beautiful, functional designs that solve real-world problems.",
+    "values": [
+      "Creativity in everything we do",
+      "User-centered approach",
+      "Attention to detail",
+      "Open communication",
+      "Continuous improvement"
+    ],
+    "benefits": [
+      "Competitive salary",
+      "Health and dental insurance",
+      "Flexible work hours",
+      "Creative workspace",
+      "Professional development opportunities",
+      "Team outings and events"
+    ],
+    "jobs_count": 2
+  },
+  {
+    "id": "company-3",
+    "name": "DataVision",
+    "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop&auto=format",
+    "cover_image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=1200&h=400&fit=crop&auto=format",
+    "location": "Seattle, WA",
+    "website": "https://datavision.example.com",
+    "industry": "Data Science",
+    "founded": "2012",
+    "size": "51-200 employees",
+    "description": "DataVision is a data analytics company that helps businesses harness the power of their data. We provide insights and solutions that enable our clients to make data-driven decisions and gain a competitive edge in their industries.",
+    "mission": "To transform data into actionable insights that drive business success.",
+    "values": [
+      "Data-driven decision making",
+      "Analytical excellence",
+      "Innovation and exploration",
+      "Integrity and transparency",
+      "Collaborative problem solving"
+    ],
+    "benefits": [
+      "Competitive compensation",
+      "Comprehensive benefits package",
+      "Remote work options",
+      "Continuing education support",
+      "Modern office space",
+      "Wellness programs"
+    ],
+    "jobs_count": 2
+  },
+  {
+    "id": "company-4",
+    "name": "GrowthGenius",
+    "logo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&h=200&fit=crop&auto=format",
+    "cover_image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=400&fit=crop&auto=format",
+    "location": "Austin, TX",
+    "website": "https://growthgenius.example.com",
+    "industry": "Marketing",
+    "founded": "2017",
+    "size": "11-50 employees",
+    "description": "GrowthGenius is a marketing agency focused on helping startups and growing businesses scale their customer acquisition. We combine creative strategies with data-driven tactics to deliver measurable results for our clients.",
+    "mission": "To accelerate business growth through innovative marketing strategies.",
+    "values": [
+      "Results-oriented approach",
+      "Creativity and innovation",
+      "Data-driven decisions",
+      "Client partnership",
+      "Agility and adaptability"
+    ],
+    "benefits": [
+      "Competitive salary",
+      "Healthcare coverage",
+      "Flexible working hours",
+      "Remote work options",
+      "Professional development budget",
+      "Team building activities"
+    ],
+    "jobs_count": 2
+  },
+  {
+    "id": "company-5",
+    "name": "InnovateCo",
+    "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=200&h=200&fit=crop&auto=format",
+    "cover_image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=1200&h=400&fit=crop&auto=format",
+    "location": "Boston, MA",
+    "website": "https://innovateco.example.com",
+    "industry": "Product",
+    "founded": "2013",
+    "size": "101-500 employees",
+    "description": "InnovateCo is a product development company that creates cutting-edge solutions for various industries. We combine technical expertise with design thinking to build products that solve complex problems and delight users.",
+    "mission": "To build innovative products that improve people's lives.",
+    "values": [
+      "Innovation and creativity",
+      "Customer-first mindset",
+      "Excellence in execution",
+      "Continuous learning",
+      "Collaborative teamwork"
+    ],
+    "benefits": [
+      "Competitive compensation package",
+      "Comprehensive health benefits",
+      "Flexible work arrangements",
+      "Professional growth opportunities",
+      "Employee stock options",
+      "Wellness programs"
+    ],
+    "jobs_count": 2
+  },
+  {
+    "id": "company-6",
+    "name": "CapitalGrowth",
+    "logo": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?w=200&h=200&fit=crop&auto=format",
+    "cover_image": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=1200&h=400&fit=crop&auto=format",
+    "location": "Chicago, IL",
+    "website": "https://capitalgrowth.example.com",
+    "industry": "Finance",
+    "founded": "2008",
+    "size": "101-500 employees",
+    "description": "CapitalGrowth is a financial services firm specializing in investment management and financial planning. We help individuals and businesses achieve their financial goals through personalized strategies and expert advice.",
+    "mission": "To empower clients to achieve financial success through expert guidance and innovative solutions.",
+    "values": [
+      "Integrity and trust",
+      "Client-focused approach",
+      "Excellence in service",
+      "Continuous improvement",
+      "Collaborative teamwork"
+    ],
+    "benefits": [
+      "Competitive salary and bonuses",
+      "Comprehensive benefits package",
+      "401(k) with employer match",
+      "Professional development opportunities",
+      "Work-life balance initiatives",
+      "Employee wellness program"
+    ],
+    "jobs_count": 1
+  },
+  {
+    "id": "company-7",
+    "name": "PeopleFirst",
+    "logo": "https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?w=200&h=200&fit=crop&auto=format",
+    "cover_image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=1200&h=400&fit=crop&auto=format",
+    "location": "Atlanta, GA",
+    "website": "https://peoplefirst.example.com",
+    "industry": "Human Resources",
+    "founded": "2014",
+    "size": "51-200 employees",
+    "description": "PeopleFirst is an HR consulting firm that helps organizations build better workplaces. We provide a range of services including recruitment, training, employee engagement, and HR policy development.",
+    "mission": "To create workplaces where people thrive and organizations succeed.",
+    "values": [
+      "People-centered approach",
+      "Integrity and professionalism",
+      "Innovation in HR practices",
+      "Diversity and inclusion",
+      "Continuous learning"
+    ],
+    "benefits": [
+      "Competitive salary",
+      "Health and wellness benefits",
+      "Flexible work arrangements",
+      "Professional development",
+      "Team building activities",
+      "Work-life balance"
+    ],
+    "jobs_count": 1
+  }
+]

@@ -1,0 +1,45 @@
+
+[
+  {
+    "id": "category-1",
+    "name": "Technology",
+    "icon": "Computer",
+    "count": 4
+  },
+  {
+    "id": "category-2",
+    "name": "Design",
+    "icon": "Palette",
+    "count": 2
+  },
+  {
+    "id": "category-3",
+    "name": "Marketing",
+    "icon": "TrendingUp",
+    "count": 2
+  },
+  {
+    "id": "category-4",
+    "name": "Finance",
+    "icon": "DollarSign",
+    "count": 1
+  },
+  {
+    "id": "category-5",
+    "name": "Data Science",
+    "icon": "Database",
+    "count": 1
+  },
+  {
+    "id": "category-6",
+    "name": "Product",
+    "icon": "Package",
+    "count": 1
+  },
+  {
+    "id": "category-7",
+    "name": "Human Resources",
+    "icon": "Users",
+    "count": 1
+  }
+]

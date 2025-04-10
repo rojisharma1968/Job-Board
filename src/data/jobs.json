@@ -1,0 +1,1074 @@
+
+[
+  {
+    "id": "job-1",
+    "title": "Senior Frontend Developer",
+    "company": {
+      "id": "company-1",
+      "name": "TechCorp",
+      "logo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "San Francisco, CA",
+    "description": "We are looking for an experienced Frontend Developer to join our team and help us build modern, responsive web applications. You will work with our product and design teams to implement user interfaces that are both functional and visually appealing.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Senior (5+ years)",
+    "salary_range": "$120,000 - $150,000",
+    "posted_date": "2023-04-01T08:00:00Z",
+    "skills": ["React", "TypeScript", "CSS", "HTML", "JavaScript"],
+    "remote": true,
+    "responsibilities": [
+      "Develop and maintain frontend applications using React and TypeScript",
+      "Collaborate with UX/UI designers to implement responsive, user-friendly interfaces",
+      "Write clean, maintainable, and performant code",
+      "Participate in code reviews and help maintain code quality",
+      "Work with backend developers to integrate APIs"
+    ],
+    "requirements": [
+      "5+ years of experience in frontend development",
+      "Strong proficiency in React, TypeScript, and modern JavaScript",
+      "Experience with state management solutions (Redux, Context API, etc.)",
+      "Good understanding of responsive design principles",
+      "Knowledge of modern build tools and workflows",
+      "Excellent problem-solving skills and attention to detail"
+    ]
+  },
+  {
+    "id": "job-2",
+    "title": "UX/UI Designer",
+    "company": {
+      "id": "company-2",
+      "name": "DesignMasters",
+      "logo": "https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "New York, NY",
+    "description": "DesignMasters is seeking a talented UX/UI Designer to join our creative team. You will be responsible for creating beautiful, intuitive interfaces for our clients' web and mobile applications. This role requires a blend of creative thinking and user-centered design principles.",
+    "employment_type": "Full-time",
+    "category": "Design",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$90,000 - $120,000",
+    "posted_date": "2023-04-05T09:30:00Z",
+    "skills": ["Figma", "Adobe XD", "Sketch", "User Research", "Prototyping"],
+    "remote": true,
+    "responsibilities": [
+      "Create wireframes, prototypes, and high-fidelity mockups",
+      "Conduct user research and usability testing",
+      "Collaborate with developers to ensure proper implementation of designs",
+      "Create and maintain design systems",
+      "Stay up-to-date with design trends and best practices"
+    ],
+    "requirements": [
+      "3+ years of experience in UX/UI design",
+      "Proficiency in design tools such as Figma, Sketch, or Adobe XD",
+      "Strong portfolio demonstrating your design process and skills",
+      "Understanding of user-centered design principles",
+      "Excellent communication and collaboration skills",
+      "Knowledge of HTML/CSS is a plus"
+    ]
+  },
+  {
+    "id": "job-3",
+    "title": "Data Scientist",
+    "company": {
+      "id": "company-3",
+      "name": "DataVision",
+      "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Seattle, WA",
+    "description": "DataVision is looking for a Data Scientist to help us extract insights from complex datasets. You will work closely with our engineering and product teams to develop models and algorithms that drive business decisions and product features.",
+    "employment_type": "Full-time",
+    "category": "Data Science",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$110,000 - $140,000",
+    "posted_date": "2023-04-07T10:15:00Z",
+    "skills": ["Python", "SQL", "Machine Learning", "Data Visualization", "Statistics"],
+    "remote": false,
+    "responsibilities": [
+      "Develop and implement machine learning models",
+      "Analyze large datasets to extract meaningful insights",
+      "Collaborate with engineers to deploy models to production",
+      "Create visualizations to communicate findings to stakeholders",
+      "Stay current with the latest research and technologies in data science"
+    ],
+    "requirements": [
+      "Masters or PhD in Computer Science, Statistics, or related field",
+      "3+ years of experience in data science or related role",
+      "Strong programming skills in Python",
+      "Experience with machine learning frameworks (scikit-learn, TensorFlow, etc.)",
+      "Proficiency in SQL and experience with big data technologies",
+      "Excellent analytical and problem-solving skills"
+    ]
+  },
+  {
+    "id": "job-4",
+    "title": "Marketing Manager",
+    "company": {
+      "id": "company-4",
+      "name": "GrowthGenius",
+      "logo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Austin, TX",
+    "description": "GrowthGenius is seeking a Marketing Manager to lead our marketing efforts and drive customer acquisition. You will be responsible for developing and executing marketing strategies across various channels to increase brand awareness and generate leads.",
+    "employment_type": "Full-time",
+    "category": "Marketing",
+    "experience_level": "Senior (5+ years)",
+    "salary_range": "$90,000 - $120,000",
+    "posted_date": "2023-04-10T14:00:00Z",
+    "skills": ["Digital Marketing", "Content Strategy", "SEO", "Social Media", "Analytics"],
+    "remote": true,
+    "responsibilities": [
+      "Develop and execute comprehensive marketing strategies",
+      "Manage digital marketing campaigns across various channels",
+      "Create and oversee content creation for blog, social media, and email",
+      "Track and analyze marketing performance metrics",
+      "Collaborate with sales team to align marketing efforts with sales goals",
+      "Manage marketing budget and resources"
+    ],
+    "requirements": [
+      "5+ years of experience in marketing roles, with at least 2 years in a management position",
+      "Strong understanding of digital marketing channels and strategies",
+      "Experience with marketing analytics tools and data-driven decision making",
+      "Excellent written and verbal communication skills",
+      "Ability to manage multiple projects simultaneously",
+      "Bachelor's degree in Marketing, Business, or related field"
+    ]
+  },
+  {
+    "id": "job-5",
+    "title": "DevOps Engineer",
+    "company": {
+      "id": "company-1",
+      "name": "TechCorp",
+      "logo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Remote",
+    "description": "TechCorp is looking for a DevOps Engineer to help us build and maintain our cloud infrastructure. You will work with our development team to automate processes, ensure high availability, and optimize performance of our systems.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$100,000 - $130,000",
+    "posted_date": "2023-04-12T11:45:00Z",
+    "skills": ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform"],
+    "remote": true,
+    "responsibilities": [
+      "Design, implement, and maintain cloud infrastructure on AWS",
+      "Automate deployment processes using CI/CD pipelines",
+      "Monitor system performance and troubleshoot issues",
+      "Implement security best practices and ensure compliance",
+      "Collaborate with development teams to improve workflows",
+      "Document infrastructure and operational procedures"
+    ],
+    "requirements": [
+      "3+ years of experience in DevOps or similar role",
+      "Strong knowledge of AWS services",
+      "Experience with containerization technologies (Docker, Kubernetes)",
+      "Proficiency in infrastructure as code (Terraform, CloudFormation)",
+      "Understanding of CI/CD principles and tools",
+      "Good scripting skills (Bash, Python, etc.)",
+      "Problem-solving mindset and attention to detail"
+    ]
+  },
+  {
+    "id": "job-6",
+    "title": "Product Manager",
+    "company": {
+      "id": "company-5",
+      "name": "InnovateCo",
+      "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Boston, MA",
+    "description": "InnovateCo is seeking a Product Manager to lead the development of our flagship product. You will work closely with engineering, design, and marketing teams to define product strategy, prioritize features, and ensure successful product launches.",
+    "employment_type": "Full-time",
+    "category": "Product",
+    "experience_level": "Senior (5+ years)",
+    "salary_range": "$120,000 - $150,000",
+    "posted_date": "2023-04-15T13:30:00Z",
+    "skills": ["Product Strategy", "Agile", "User Stories", "Market Research", "Data Analysis"],
+    "remote": false,
+    "responsibilities": [
+      "Define product vision, strategy, and roadmap",
+      "Gather and analyze user feedback to inform product decisions",
+      "Write detailed user stories and requirements",
+      "Collaborate with engineering and design teams",
+      "Conduct market research and competitive analysis",
+      "Track and measure product performance metrics",
+      "Communicate product plans to stakeholders"
+    ],
+    "requirements": [
+      "5+ years of experience in product management",
+      "Strong understanding of product development lifecycle",
+      "Experience with Agile methodologies",
+      "Excellent analytical and problem-solving skills",
+      "Outstanding communication and leadership abilities",
+      "Ability to prioritize competing demands",
+      "Bachelor's degree in Business, Computer Science, or related field"
+    ]
+  },
+  {
+    "id": "job-7",
+    "title": "Financial Analyst",
+    "company": {
+      "id": "company-6",
+      "name": "CapitalGrowth",
+      "logo": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Chicago, IL",
+    "description": "CapitalGrowth is looking for a Financial Analyst to join our finance team. You will be responsible for analyzing financial data, preparing reports, and providing insights to support business decisions.",
+    "employment_type": "Full-time",
+    "category": "Finance",
+    "experience_level": "Entry-level (0-2 years)",
+    "salary_range": "$65,000 - $85,000",
+    "posted_date": "2023-04-18T09:00:00Z",
+    "skills": ["Financial Modeling", "Excel", "Data Analysis", "Forecasting", "Budgeting"],
+    "remote": false,
+    "responsibilities": [
+      "Prepare financial reports and forecasts",
+      "Analyze financial data and identify trends",
+      "Assist in budget preparation and monitoring",
+      "Perform variance analysis and investigate discrepancies",
+      "Support financial planning and decision-making processes",
+      "Maintain financial models and databases"
+    ],
+    "requirements": [
+      "Bachelor's degree in Finance, Accounting, or related field",
+      "0-2 years of experience in finance or related area",
+      "Strong analytical and quantitative skills",
+      "Proficiency in Excel and financial modeling",
+      "Attention to detail and accuracy",
+      "Good communication skills",
+      "Knowledge of financial systems and tools is a plus"
+    ]
+  },
+  {
+    "id": "job-8",
+    "title": "Graphic Designer",
+    "company": {
+      "id": "company-2",
+      "name": "DesignMasters",
+      "logo": "https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Miami, FL",
+    "description": "DesignMasters is seeking a talented Graphic Designer to join our creative team. You will be responsible for creating visual concepts, layouts, and designs for various digital and print media.",
+    "employment_type": "Contract",
+    "category": "Design",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$70,000 - $90,000",
+    "posted_date": "2023-04-20T15:45:00Z",
+    "skills": ["Adobe Creative Suite", "Typography", "Branding", "Illustration", "Layout Design"],
+    "remote": true,
+    "responsibilities": [
+      "Create visual designs for digital and print media",
+      "Develop brand identities, logos, and style guides",
+      "Design marketing materials, including social media graphics",
+      "Collaborate with clients and team members to understand design requirements",
+      "Maintain consistency across all brand visual elements",
+      "Stay current with design trends and techniques"
+    ],
+    "requirements": [
+      "3+ years of experience in graphic design",
+      "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign)",
+      "Strong portfolio demonstrating creativity and technical skills",
+      "Understanding of design principles and typography",
+      "Ability to work on multiple projects and meet deadlines",
+      "Excellent communication and collaboration skills",
+      "Bachelor's degree in Graphic Design or related field preferred"
+    ]
+  },
+  {
+    "id": "job-9",
+    "title": "Backend Developer",
+    "company": {
+      "id": "company-3",
+      "name": "DataVision",
+      "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Denver, CO",
+    "description": "DataVision is looking for a Backend Developer to help us build robust, scalable APIs and services. You will work closely with our frontend team to deliver seamless full-stack applications.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$100,000 - $130,000",
+    "posted_date": "2023-04-22T10:30:00Z",
+    "skills": ["Node.js", "Express", "MongoDB", "SQL", "RESTful APIs"],
+    "remote": true,
+    "responsibilities": [
+      "Design and develop backend services and APIs",
+      "Implement database schemas and models",
+      "Ensure performance, security, and reliability of backend systems",
+      "Write clean, maintainable, and well-tested code",
+      "Collaborate with frontend developers to integrate APIs",
+      "Troubleshoot and debug issues",
+      "Contribute to technical documentation"
+    ],
+    "requirements": [
+      "3+ years of experience in backend development",
+      "Strong proficiency in Node.js and Express",
+      "Experience with both SQL and NoSQL databases",
+      "Knowledge of RESTful API design principles",
+      "Understanding of authentication and security best practices",
+      "Familiarity with version control systems (Git)",
+      "Good problem-solving skills and attention to detail"
+    ]
+  },
+  {
+    "id": "job-10",
+    "title": "HR Manager",
+    "company": {
+      "id": "company-7",
+      "name": "PeopleFirst",
+      "logo": "https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Atlanta, GA",
+    "description": "PeopleFirst is seeking an experienced HR Manager to oversee our human resources functions. You will be responsible for recruiting, employee relations, benefits administration, and ensuring compliance with labor laws.",
+    "employment_type": "Full-time",
+    "category": "Human Resources",
+    "experience_level": "Senior (5+ years)",
+    "salary_range": "$90,000 - $120,000",
+    "posted_date": "2023-04-25T14:00:00Z",
+    "skills": ["Recruiting", "Employee Relations", "Benefits Administration", "HR Policies", "Labor Laws"],
+    "remote": false,
+    "responsibilities": [
+      "Develop and implement HR strategies and initiatives",
+      "Manage the recruitment and selection process",
+      "Handle employee relations and conflict resolution",
+      "Administer benefit programs and policies",
+      "Ensure compliance with labor laws and regulations",
+      "Oversee performance management processes",
+      "Provide guidance to managers on HR-related issues"
+    ],
+    "requirements": [
+      "5+ years of experience in HR roles, with at least 2 years in a management position",
+      "Strong knowledge of HR principles and practices",
+      "Familiarity with labor laws and regulations",
+      "Excellent interpersonal and communication skills",
+      "Ability to handle sensitive information with confidentiality",
+      "Strong organizational and leadership abilities",
+      "Bachelor's degree in Human Resources, Business, or related field",
+      "HR certification (PHR, SPHR, etc.) preferred"
+    ]
+  },
+  {
+    "id": "job-11",
+    "title": "Content Writer",
+    "company": {
+      "id": "company-4",
+      "name": "GrowthGenius",
+      "logo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Portland, OR",
+    "description": "GrowthGenius is looking for a skilled Content Writer to create engaging, SEO-friendly content for our clients. You will be responsible for writing blog posts, articles, website copy, and other marketing materials.",
+    "employment_type": "Part-time",
+    "category": "Marketing",
+    "experience_level": "Entry-level (0-2 years)",
+    "salary_range": "$40,000 - $60,000",
+    "posted_date": "2023-04-28T11:15:00Z",
+    "skills": ["Content Writing", "SEO", "Copywriting", "Research", "Editing"],
+    "remote": true,
+    "responsibilities": [
+      "Write clear, compelling content for various platforms",
+      "Research topics and gather information for articles",
+      "Optimize content for SEO and readability",
+      "Edit and proofread content for grammar and style",
+      "Collaborate with marketing team on content strategy",
+      "Meet deadlines and content quotas",
+      "Stay updated on industry trends and best practices"
+    ],
+    "requirements": [
+      "0-2 years of experience in content writing or related field",
+      "Strong writing and editing skills",
+      "Understanding of SEO principles",
+      "Ability to adapt writing style for different audiences",
+      "Excellent research and organizational skills",
+      "Creativity and attention to detail",
+      "Bachelor's degree in English, Journalism, Communications, or related field preferred"
+    ]
+  },
+  {
+    "id": "job-12",
+    "title": "Mobile App Developer",
+    "company": {
+      "id": "company-5",
+      "name": "InnovateCo",
+      "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "San Diego, CA",
+    "description": "InnovateCo is seeking a Mobile App Developer to join our team. You will be responsible for developing and maintaining mobile applications for iOS and Android platforms.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$95,000 - $125,000",
+    "posted_date": "2023-05-01T09:45:00Z",
+    "skills": ["React Native", "Swift", "Kotlin", "JavaScript", "Mobile UX"],
+    "remote": true,
+    "responsibilities": [
+      "Develop cross-platform mobile applications using React Native",
+      "Build native components when necessary for iOS and Android",
+      "Collaborate with design and product teams",
+      "Ensure proper testing and quality assurance",
+      "Troubleshoot and fix bugs",
+      "Stay current with mobile development trends and best practices",
+      "Optimize applications for performance and user experience"
+    ],
+    "requirements": [
+      "3+ years of experience in mobile app development",
+      "Proficiency in React Native and JavaScript",
+      "Experience with native iOS (Swift) and Android (Kotlin/Java) development",
+      "Understanding of mobile design patterns and best practices",
+      "Knowledge of RESTful APIs and data integration",
+      "Ability to write clean, maintainable code",
+      "Problem-solving skills and attention to detail"
+    ]
+  },
+  {
+    "id": "job-13",
+    "title": "Blockchain Developer",
+    "company": {
+      "id": "company-1",
+      "name": "TechCorp",
+      "logo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Remote",
+    "description": "TechCorp is looking for a talented Blockchain Developer to join our innovative team. You will be responsible for designing and implementing blockchain solutions, smart contracts, and decentralized applications.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$110,000 - $150,000",
+    "posted_date": "2023-05-05T08:15:00Z",
+    "skills": ["Solidity", "Ethereum", "Web3.js", "Smart Contracts", "JavaScript"],
+    "remote": true,
+    "responsibilities": [
+      "Design and develop blockchain applications and solutions",
+      "Create and audit smart contracts",
+      "Implement secure and efficient blockchain architectures",
+      "Collaborate with front-end developers to integrate blockchain functionality",
+      "Stay current with the latest blockchain technologies and trends",
+      "Participate in code reviews and technical discussions"
+    ],
+    "requirements": [
+      "3+ years of experience in blockchain development",
+      "Proficiency in Solidity and Ethereum development",
+      "Experience with Web3.js, Truffle, and other blockchain tools",
+      "Strong understanding of cryptography and security principles",
+      "Knowledge of JavaScript and Node.js",
+      "Excellent problem-solving skills",
+      "Bachelor's degree in Computer Science or related field"
+    ]
+  },
+  {
+    "id": "job-14",
+    "title": "Social Media Manager",
+    "company": {
+      "id": "company-4",
+      "name": "GrowthGenius",
+      "logo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Los Angeles, CA",
+    "description": "GrowthGenius is seeking a creative and analytical Social Media Manager to develop and implement our social media strategy. You will be responsible for creating engaging content, growing our social media presence, and measuring the impact of our social media campaigns.",
+    "employment_type": "Full-time",
+    "category": "Marketing",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$70,000 - $90,000",
+    "posted_date": "2023-05-08T13:20:00Z",
+    "skills": ["Social Media Marketing", "Content Creation", "Analytics", "Community Management", "Visual Design"],
+    "remote": true,
+    "responsibilities": [
+      "Develop and implement social media strategies across platforms",
+      "Create and schedule engaging content for multiple social channels",
+      "Grow and engage with our online community",
+      "Monitor, track, and report on social media performance metrics",
+      "Stay up-to-date with social media trends and best practices",
+      "Collaborate with marketing and content teams on campaigns",
+      "Manage social media advertising campaigns"
+    ],
+    "requirements": [
+      "3-5 years of experience in social media management",
+      "Proficiency with major social media platforms and scheduling tools",
+      "Experience with social media analytics and reporting",
+      "Strong writing and editing skills",
+      "Basic visual design skills (Canva, Photoshop)",
+      "Understanding of social media algorithms and trends",
+      "Bachelor's degree in Marketing, Communications, or related field"
+    ]
+  },
+  {
+    "id": "job-15",
+    "title": "Database Administrator",
+    "company": {
+      "id": "company-3",
+      "name": "DataVision",
+      "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Phoenix, AZ",
+    "description": "DataVision is looking for a Database Administrator to manage and optimize our database infrastructure. You will be responsible for ensuring data security, availability, and performance while implementing best practices for database management.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Senior (5+ years)",
+    "salary_range": "$110,000 - $140,000",
+    "posted_date": "2023-05-12T10:00:00Z",
+    "skills": ["SQL", "PostgreSQL", "MongoDB", "Backup and Recovery", "Performance Tuning"],
+    "remote": false,
+    "responsibilities": [
+      "Install, configure, and maintain database systems",
+      "Implement backup and recovery procedures",
+      "Monitor database performance and optimize queries",
+      "Ensure data security and integrity",
+      "Plan and implement database upgrades and migrations",
+      "Troubleshoot database issues",
+      "Collaborate with development teams on database design",
+      "Document database policies and procedures"
+    ],
+    "requirements": [
+      "5+ years of experience as a Database Administrator",
+      "In-depth knowledge of PostgreSQL and MongoDB",
+      "Experience with database performance tuning and optimization",
+      "Understanding of database security best practices",
+      "Familiarity with backup and recovery strategies",
+      "Problem-solving and analytical skills",
+      "Bachelor's degree in Computer Science or related field"
+    ]
+  },
+  {
+    "id": "job-16",
+    "title": "Technical Support Specialist",
+    "company": {
+      "id": "company-5",
+      "name": "InnovateCo",
+      "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Dallas, TX",
+    "description": "InnovateCo is seeking a Technical Support Specialist to provide exceptional customer service and technical assistance to our users. You will troubleshoot issues, answer inquiries, and ensure that our customers have a positive experience with our products.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Entry-level (0-2 years)",
+    "salary_range": "$45,000 - $60,000",
+    "posted_date": "2023-05-15T11:30:00Z",
+    "skills": ["Customer Service", "Troubleshooting", "Technical Documentation", "Communication", "Problem Solving"],
+    "remote": true,
+    "responsibilities": [
+      "Respond to customer inquiries via email, chat, and phone",
+      "Troubleshoot and resolve technical issues",
+      "Document solutions and maintain knowledge base",
+      "Escalate complex issues to the appropriate teams",
+      "Provide feedback to product teams on user experience",
+      "Stay up-to-date with product features and updates",
+      "Participate in training and development activities"
+    ],
+    "requirements": [
+      "0-2 years of experience in technical support or customer service",
+      "Strong problem-solving and troubleshooting skills",
+      "Excellent written and verbal communication skills",
+      "Ability to explain technical concepts in simple terms",
+      "Patience and empathy when working with frustrated users",
+      "Basic understanding of software applications and hardware",
+      "Associate's or Bachelor's degree preferred but not required"
+    ]
+  },
+  {
+    "id": "job-17",
+    "title": "Business Analyst",
+    "company": {
+      "id": "company-6",
+      "name": "CapitalGrowth",
+      "logo": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Washington, DC",
+    "description": "CapitalGrowth is looking for a detail-oriented Business Analyst to join our team. You will work with stakeholders to gather requirements, analyze business processes, and recommend solutions to improve efficiency and effectiveness.",
+    "employment_type": "Full-time",
+    "category": "Finance",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$80,000 - $100,000",
+    "posted_date": "2023-05-18T14:15:00Z",
+    "skills": ["Requirements Gathering", "Process Mapping", "Data Analysis", "Documentation", "Stakeholder Management"],
+    "remote": false,
+    "responsibilities": [
+      "Gather and document business requirements from stakeholders",
+      "Analyze current business processes and identify areas for improvement",
+      "Create process maps, diagrams, and other documentation",
+      "Facilitate meetings and workshops to define solutions",
+      "Test and validate implemented solutions",
+      "Prepare business cases and cost-benefit analyses",
+      "Serve as a liaison between business and technical teams"
+    ],
+    "requirements": [
+      "3-5 years of experience as a Business Analyst",
+      "Strong analytical and problem-solving skills",
+      "Excellent documentation and communication abilities",
+      "Experience with requirements gathering techniques",
+      "Knowledge of project management methodologies",
+      "Proficiency in Microsoft Office and analytical tools",
+      "Bachelor's degree in Business, Finance, or related field"
+    ]
+  },
+  {
+    "id": "job-18",
+    "title": "Video Editor",
+    "company": {
+      "id": "company-2",
+      "name": "DesignMasters",
+      "logo": "https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Remote",
+    "description": "DesignMasters is seeking a creative Video Editor to join our team. You will be responsible for editing and producing high-quality videos for marketing, social media, and client projects.",
+    "employment_type": "Contract",
+    "category": "Design",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$60,000 - $80,000",
+    "posted_date": "2023-05-22T09:30:00Z",
+    "skills": ["Adobe Premiere Pro", "After Effects", "Color Grading", "Audio Editing", "Storytelling"],
+    "remote": true,
+    "responsibilities": [
+      "Edit and assemble recorded footage into final videos",
+      "Create motion graphics and visual effects",
+      "Perform color correction and audio mixing",
+      "Collaborate with creative team on storyboarding and concepts",
+      "Ensure final videos meet quality standards and client requirements",
+      "Stay current with video editing techniques and trends",
+      "Manage multiple projects with tight deadlines"
+    ],
+    "requirements": [
+      "3-5 years of experience in video editing",
+      "Proficiency in Adobe Premiere Pro and After Effects",
+      "Strong portfolio showcasing video editing skills",
+      "Understanding of storytelling and pacing",
+      "Experience with audio editing and color grading",
+      "Ability to work independently and meet deadlines",
+      "Bachelor's degree in Film, Media, or related field preferred"
+    ]
+  },
+  {
+    "id": "job-19",
+    "title": "Sales Representative",
+    "company": {
+      "id": "company-7",
+      "name": "PeopleFirst",
+      "logo": "https://images.unsplash.com/photo-1529400971008-f566de0e6dfc?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Chicago, IL",
+    "description": "PeopleFirst is looking for an enthusiastic Sales Representative to join our growing team. You will be responsible for generating leads, building relationships with potential clients, and closing sales to drive company revenue.",
+    "employment_type": "Full-time",
+    "category": "Sales",
+    "experience_level": "Entry-level (0-2 years)",
+    "salary_range": "$50,000 - $70,000 + Commission",
+    "posted_date": "2023-05-25T13:45:00Z",
+    "skills": ["Sales Techniques", "CRM Software", "Negotiation", "Relationship Building", "Communication"],
+    "remote": false,
+    "responsibilities": [
+      "Identify and contact potential clients through cold calling and networking",
+      "Understand client needs and present appropriate products/services",
+      "Negotiate contracts and close sales",
+      "Maintain and expand relationships with existing clients",
+      "Meet or exceed monthly sales targets",
+      "Document sales activities in CRM system",
+      "Stay knowledgeable about company products and industry trends"
+    ],
+    "requirements": [
+      "0-2 years of sales experience preferred",
+      "Strong communication and interpersonal skills",
+      "Self-motivated with a results-driven approach",
+      "Ability to handle rejection and persist through challenges",
+      "Comfortable with making cold calls and networking",
+      "Experience with CRM software a plus",
+      "Bachelor's degree preferred but not required"
+    ]
+  },
+  {
+    "id": "job-20",
+    "title": "Network Engineer",
+    "company": {
+      "id": "company-1",
+      "name": "TechCorp",
+      "logo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Minneapolis, MN",
+    "description": "TechCorp is seeking a skilled Network Engineer to design, implement, and maintain our network infrastructure. You will be responsible for ensuring network reliability, security, and performance to support our business operations.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$90,000 - $120,000",
+    "posted_date": "2023-05-28T10:00:00Z",
+    "skills": ["Cisco", "Routing & Switching", "Firewalls", "VPN", "Network Security"],
+    "remote": false,
+    "responsibilities": [
+      "Design and implement network infrastructure",
+      "Configure and maintain network equipment (routers, switches, firewalls)",
+      "Monitor network performance and troubleshoot issues",
+      "Implement security measures to protect network infrastructure",
+      "Plan and execute network upgrades",
+      "Document network architecture and procedures",
+      "Provide technical support for network-related issues"
+    ],
+    "requirements": [
+      "3-5 years of experience in network engineering",
+      "Strong knowledge of network protocols and standards",
+      "Experience with Cisco networking equipment",
+      "Understanding of network security principles",
+      "Troubleshooting and problem-solving skills",
+      "Relevant certifications (CCNA, CCNP) preferred",
+      "Bachelor's degree in Computer Science, IT, or related field"
+    ]
+  },
+  {
+    "id": "job-21",
+    "title": "Project Manager",
+    "company": {
+      "id": "company-5",
+      "name": "InnovateCo",
+      "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Denver, CO",
+    "description": "InnovateCo is looking for an experienced Project Manager to lead cross-functional teams in delivering successful projects. You will be responsible for planning, executing, and closing projects while ensuring they are completed on time, within scope, and within budget.",
+    "employment_type": "Full-time",
+    "category": "Project",
+    "experience_level": "Senior (5+ years)",
+    "salary_range": "$100,000 - $130,000",
+    "posted_date": "2023-06-01T11:30:00Z",
+    "skills": ["Project Management", "Agile", "Budgeting", "Risk Management", "Stakeholder Management"],
+    "remote": true,
+    "responsibilities": [
+      "Develop project plans, schedules, and budgets",
+      "Lead cross-functional teams to achieve project objectives",
+      "Monitor project progress and make adjustments as needed",
+      "Identify and mitigate project risks",
+      "Communicate with stakeholders on project status",
+      "Manage project resources and timelines",
+      "Ensure project deliverables meet quality standards"
+    ],
+    "requirements": [
+      "5+ years of experience in project management",
+      "Strong leadership and team management skills",
+      "Experience with project management methodologies (Agile, Waterfall)",
+      "Excellent communication and interpersonal abilities",
+      "Problem-solving and decision-making skills",
+      "PMP certification preferred",
+      "Bachelor's degree in Business, Engineering, or related field"
+    ]
+  },
+  {
+    "id": "job-22",
+    "title": "Customer Success Manager",
+    "company": {
+      "id": "company-3",
+      "name": "DataVision",
+      "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Remote",
+    "description": "DataVision is seeking a Customer Success Manager to ensure our clients get maximum value from our products. You will be responsible for building relationships with customers, driving adoption, and ensuring retention and growth.",
+    "employment_type": "Full-time",
+    "category": "Customer Success",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$80,000 - $110,000",
+    "posted_date": "2023-06-05T14:00:00Z",
+    "skills": ["Customer Relationship Management", "Account Management", "Product Knowledge", "Communication", "Problem Solving"],
+    "remote": true,
+    "responsibilities": [
+      "Serve as the primary point of contact for assigned customers",
+      "Develop and maintain strong relationships with key stakeholders",
+      "Ensure successful onboarding and adoption of our products",
+      "Identify upsell and cross-sell opportunities",
+      "Monitor customer health metrics and address issues proactively",
+      "Create and execute customer success plans",
+      "Collaborate with other departments to improve customer experience"
+    ],
+    "requirements": [
+      "3-5 years of experience in customer success or account management",
+      "Strong interpersonal and relationship-building skills",
+      "Experience with SaaS products",
+      "Excellent written and verbal communication abilities",
+      "Problem-solving and critical thinking skills",
+      "Ability to understand technical concepts and explain them to non-technical users",
+      "Bachelor's degree in Business, Marketing, or related field"
+    ]
+  },
+  {
+    "id": "job-23",
+    "title": "3D Artist",
+    "company": {
+      "id": "company-2",
+      "name": "DesignMasters",
+      "logo": "https://images.unsplash.com/photo-1567095761054-7a02e69e5c43?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Los Angeles, CA",
+    "description": "DesignMasters is looking for a talented 3D Artist to join our creative team. You will be responsible for creating 3D models, textures, and animations for various client projects, including product visualizations, architectural renderings, and VR/AR experiences.",
+    "employment_type": "Full-time",
+    "category": "Design",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$70,000 - $100,000",
+    "posted_date": "2023-06-08T09:15:00Z",
+    "skills": ["Blender", "Maya", "3D Modeling", "Texturing", "Rendering"],
+    "remote": true,
+    "responsibilities": [
+      "Create high-quality 3D models and environments",
+      "Apply textures and materials to 3D assets",
+      "Set up lighting and rendering for final outputs",
+      "Create animations and visual effects",
+      "Collaborate with art directors and clients",
+      "Optimize 3D assets for different platforms",
+      "Stay current with 3D technology and techniques"
+    ],
+    "requirements": [
+      "3-5 years of experience as a 3D Artist",
+      "Proficiency in 3D software (Blender, Maya, 3ds Max)",
+      "Strong portfolio demonstrating 3D modeling and texturing skills",
+      "Understanding of lighting, materials, and rendering",
+      "Knowledge of 3D workflows and pipelines",
+      "Ability to meet deadlines and work within project constraints",
+      "Bachelor's degree in 3D Animation, Game Design, or related field preferred"
+    ]
+  },
+  {
+    "id": "job-24",
+    "title": "SEO Specialist",
+    "company": {
+      "id": "company-4",
+      "name": "GrowthGenius",
+      "logo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Remote",
+    "description": "GrowthGenius is seeking an SEO Specialist to improve our clients' search engine rankings and increase organic traffic. You will be responsible for implementing SEO strategies, conducting keyword research, and analyzing website performance.",
+    "employment_type": "Full-time",
+    "category": "Marketing",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$70,000 - $90,000",
+    "posted_date": "2023-06-12T13:30:00Z",
+    "skills": ["SEO", "Keyword Research", "Google Analytics", "Technical SEO", "Link Building"],
+    "remote": true,
+    "responsibilities": [
+      "Develop and implement SEO strategies",
+      "Conduct keyword research and competitive analysis",
+      "Optimize website content and metadata",
+      "Analyze website performance and search rankings",
+      "Identify and fix technical SEO issues",
+      "Create and manage link building campaigns",
+      "Prepare SEO reports and recommendations",
+      "Stay current with search engine algorithm updates"
+    ],
+    "requirements": [
+      "3-5 years of experience in SEO",
+      "Strong understanding of search engine algorithms and ranking factors",
+      "Experience with SEO tools (Ahrefs, SEMrush, Moz)",
+      "Knowledge of Google Analytics and Google Search Console",
+      "Understanding of technical SEO elements",
+      "Analytical mindset and data-driven approach",
+      "Excellent communication and reporting skills",
+      "Bachelor's degree in Marketing, Digital Media, or related field preferred"
+    ]
+  },
+  {
+    "id": "job-25",
+    "title": "Legal Counsel",
+    "company": {
+      "id": "company-6",
+      "name": "CapitalGrowth",
+      "logo": "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "New York, NY",
+    "description": "CapitalGrowth is looking for a Legal Counsel to join our legal team. You will be responsible for providing legal advice, drafting and reviewing contracts, and ensuring regulatory compliance across all business operations.",
+    "employment_type": "Full-time",
+    "category": "Legal",
+    "experience_level": "Senior (5+ years)",
+    "salary_range": "$120,000 - $160,000",
+    "posted_date": "2023-06-15T10:45:00Z",
+    "skills": ["Corporate Law", "Contract Drafting", "Regulatory Compliance", "Negotiation", "Legal Research"],
+    "remote": false,
+    "responsibilities": [
+      "Provide legal advice on business operations and strategies",
+      "Draft, review, and negotiate contracts and agreements",
+      "Ensure compliance with applicable laws and regulations",
+      "Manage legal risks and implement preventive measures",
+      "Coordinate with external counsel when necessary",
+      "Support corporate governance and business transactions",
+      "Stay updated on relevant laws and regulations"
+    ],
+    "requirements": [
+      "Juris Doctor (JD) degree and active bar membership",
+      "5+ years of experience in corporate law or financial services",
+      "Strong contract drafting and negotiation skills",
+      "Knowledge of securities and financial regulations",
+      "Excellent analytical and problem-solving abilities",
+      "Strong written and verbal communication skills",
+      "Ability to work in a fast-paced environment"
+    ]
+  },
+  {
+    "id": "job-26",
+    "title": "Cloud Solutions Architect",
+    "company": {
+      "id": "company-1",
+      "name": "TechCorp",
+      "logo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Seattle, WA",
+    "description": "TechCorp is seeking a Cloud Solutions Architect to design and implement cloud-based solutions for our clients. You will be responsible for creating scalable, secure, and cost-effective cloud architectures that meet business requirements.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Senior (5+ years)",
+    "salary_range": "$130,000 - $170,000",
+    "posted_date": "2023-06-18T11:00:00Z",
+    "skills": ["AWS", "Azure", "Cloud Architecture", "Infrastructure as Code", "Microservices"],
+    "remote": true,
+    "responsibilities": [
+      "Design and implement cloud architecture solutions",
+      "Create infrastructure as code using tools like Terraform or CloudFormation",
+      "Optimize cloud resources for performance, security, and cost",
+      "Migrate applications and systems to the cloud",
+      "Provide technical leadership and guidance to development teams",
+      "Stay current with cloud technologies and best practices",
+      "Document architecture decisions and patterns"
+    ],
+    "requirements": [
+      "5+ years of experience in cloud architecture",
+      "Expertise in at least one major cloud platform (AWS, Azure, GCP)",
+      "Experience with infrastructure as code and automation",
+      "Understanding of security, networking, and scalability in cloud environments",
+      "Knowledge of microservices and containerization",
+      "Relevant certifications (AWS Solutions Architect, Azure Solutions Architect)",
+      "Bachelor's degree in Computer Science or related field"
+    ]
+  },
+  {
+    "id": "job-27",
+    "title": "Data Engineer",
+    "company": {
+      "id": "company-3",
+      "name": "DataVision",
+      "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Remote",
+    "description": "DataVision is looking for a Data Engineer to build and maintain our data infrastructure. You will be responsible for designing data pipelines, ensuring data quality, and supporting data science and analytics teams with reliable data access.",
+    "employment_type": "Full-time",
+    "category": "Data Science",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$100,000 - $130,000",
+    "posted_date": "2023-06-20T14:15:00Z",
+    "skills": ["Python", "SQL", "ETL", "Data Warehousing", "Spark"],
+    "remote": true,
+    "responsibilities": [
+      "Design and implement data pipelines and ETL processes",
+      "Build and maintain data warehousing solutions",
+      "Ensure data quality, reliability, and accessibility",
+      "Collaborate with data scientists and analysts to meet data needs",
+      "Optimize data infrastructure for performance and cost",
+      "Monitor and troubleshoot data-related issues",
+      "Document data architecture and processes"
+    ],
+    "requirements": [
+      "3-5 years of experience in data engineering",
+      "Strong programming skills in Python",
+      "Experience with SQL and database systems",
+      "Knowledge of data processing frameworks (Spark, Kafka)",
+      "Understanding of data modeling and warehouse design",
+      "Experience with cloud-based data solutions",
+      "Problem-solving and analytical skills",
+      "Bachelor's degree in Computer Science, Data Science, or related field"
+    ]
+  },
+  {
+    "id": "job-28",
+    "title": "Quality Assurance Engineer",
+    "company": {
+      "id": "company-5",
+      "name": "InnovateCo",
+      "logo": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Austin, TX",
+    "description": "InnovateCo is seeking a Quality Assurance Engineer to ensure the quality of our software products. You will be responsible for designing and executing test plans, automating tests, and identifying and tracking defects.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$80,000 - $110,000",
+    "posted_date": "2023-06-25T09:30:00Z",
+    "skills": ["Manual Testing", "Test Automation", "JIRA", "Selenium", "API Testing"],
+    "remote": true,
+    "responsibilities": [
+      "Create and execute test plans and test cases",
+      "Design and implement test automation frameworks",
+      "Identify, document, and track software defects",
+      "Perform regression testing and smoke testing",
+      "Collaborate with developers to resolve issues",
+      "Participate in code reviews and quality discussions",
+      "Ensure products meet quality standards and requirements"
+    ],
+    "requirements": [
+      "3-5 years of experience in software quality assurance",
+      "Experience with both manual and automated testing",
+      "Knowledge of test automation tools (Selenium, Cypress)",
+      "Understanding of API testing and performance testing",
+      "Familiarity with Agile development processes",
+      "Strong attention to detail and analytical skills",
+      "Bachelor's degree in Computer Science or related field preferred"
+    ]
+  },
+  {
+    "id": "job-29",
+    "title": "Content Marketing Manager",
+    "company": {
+      "id": "company-4",
+      "name": "GrowthGenius",
+      "logo": "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Chicago, IL",
+    "description": "GrowthGenius is looking for a Content Marketing Manager to develop and execute our content strategy. You will be responsible for creating high-quality content, managing our content calendar, and measuring the impact of our content marketing efforts.",
+    "employment_type": "Full-time",
+    "category": "Marketing",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$75,000 - $95,000",
+    "posted_date": "2023-06-28T13:00:00Z",
+    "skills": ["Content Strategy", "SEO", "Editorial Planning", "Analytics", "Copywriting"],
+    "remote": true,
+    "responsibilities": [
+      "Develop and implement content marketing strategies",
+      "Create and manage editorial calendars",
+      "Produce high-quality written content for various channels",
+      "Optimize content for SEO and lead generation",
+      "Manage content team and freelance writers",
+      "Analyze content performance and ROI",
+      "Collaborate with other marketing teams on campaigns",
+      "Stay current with content marketing trends and best practices"
+    ],
+    "requirements": [
+      "3-5 years of experience in content marketing",
+      "Excellent writing and editing skills",
+      "Understanding of SEO principles",
+      "Experience with content management systems",
+      "Analytical skills to measure content performance",
+      "Project management and organizational abilities",
+      "Bachelor's degree in Marketing, Communications, or related field"
+    ]
+  },
+  {
+    "id": "job-30",
+    "title": "IT Security Analyst",
+    "company": {
+      "id": "company-1",
+      "name": "TechCorp",
+      "logo": "https://images.unsplash.com/photo-1549923746-c502d488b3ea?w=200&h=200&fit=crop&auto=format"
+    },
+    "location": "Washington, DC",
+    "description": "TechCorp is seeking an IT Security Analyst to protect our systems and data from security threats. You will be responsible for monitoring security systems, investigating incidents, and implementing security measures to prevent breaches.",
+    "employment_type": "Full-time",
+    "category": "Technology",
+    "experience_level": "Mid-level (3-5 years)",
+    "salary_range": "$90,000 - $120,000",
+    "posted_date": "2023-06-30T10:15:00Z",
+    "skills": ["Cybersecurity", "Vulnerability Assessment", "SIEM", "Incident Response", "Security Compliance"],
+    "remote": false,
+    "responsibilities": [
+      "Monitor and analyze security alerts and incidents",
+      "Perform vulnerability assessments and penetration testing",
+      "Implement and maintain security tools and systems",
+      "Develop and enforce security policies and procedures",
+      "Respond to and investigate security incidents",
+      "Conduct security awareness training for employees",
+      "Stay updated on emerging security threats and technologies"
+    ],
+    "requirements": [
+      "3-5 years of experience in IT security",
+      "Knowledge of security frameworks and best practices",
+      "Experience with security tools and technologies",
+      "Understanding of network security and system hardening",
+      "Incident response and forensic analysis skills",
+      "Security certifications (CompTIA Security+, CISSP, CEH) preferred",
+      "Bachelor's degree in Cybersecurity, IT, or related field"
+    ]
+  }
+]

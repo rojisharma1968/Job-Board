@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": "1",
+    "name": "Sarah Johnson",
+    "position": "Frontend Developer",
+    "company": "TechCorp",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop&auto=format",
+    "text": "JobHub made my job search so much easier! I found my dream position as a Frontend Developer within just two weeks of using the platform. The interface is intuitive, and the filtering options helped me find exactly what I was looking for."
+  },
+  {
+    "id": "2",
+    "name": "Michael Chen",
+    "position": "UX Designer",
+    "company": "DesignMasters",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&auto=format",
+    "text": "As a UX designer, I appreciate good user experience, and JobHub delivers exactly that. The clean interface and seamless application process made my job search pleasant. I landed a great position with a company that aligns perfectly with my career goals."
+  },
+  {
+    "id": "3",
+    "name": "Emily Rodriguez",
+    "position": "Marketing Manager",
+    "company": "GrowthGenius",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&h=150&fit=crop&auto=format",
+    "text": "I've used several job boards in the past, but JobHub stands out for its quality listings and user-friendly platform. I was able to find relevant marketing positions quickly and connect with great companies. Highly recommend!"
+  }
+]
