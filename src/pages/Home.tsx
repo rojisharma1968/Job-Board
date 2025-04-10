@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { 
@@ -39,7 +39,8 @@ const Home = () => {
   const [featuredJobs, setFeaturedJobs] = useState<Job[]>([]);
   const [loading, setLoading] = useState(true);
   const { uniqueLocations } = useJobs();
-  
+  const navigate = useNavigate();
+
   useEffect(() => {
     // Simulate API call for featured jobs
     setLoading(true);
@@ -50,15 +51,19 @@ const Home = () => {
     
     return () => clearTimeout(timer);
   }, []);
-  
+
   const handleSearch = (e: React.FormEvent) => {
-    e.preventDefault();
+    e.preventDefault(); // Prevent form submission and page reload
+  
     const queryParams = new URLSearchParams();
     if (searchTerm) queryParams.append("search", searchTerm);
     if (location) queryParams.append("location", location);
-    
-    window.location.href = `/jobs?${queryParams.toString()}`;
+  
+    // Use useNavigate to update the URL without reloading the page
+    navigate(`/jobs?${queryParams.toString()}`);
   };
+  
+  
   
   const getCategoryIcon = (iconName: string) => {
     switch (iconName) {
