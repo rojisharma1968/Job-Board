@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/jobs",
-        "destination": "/jobs"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/jobs/:id",
+      "destination": "/jobs/:id"
+    }
+  ]
+}
